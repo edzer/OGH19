@@ -72,7 +72,7 @@ We can also make our lives difficult by
 `+` = `-` # replace + by -
 3 + 2
 ```
-but we will not do this, and remove the bad plus by:
+but we will not do this, and remove [the bad plus](https://www.thebadplus.com/album) by:
 ```{r}
 rm(`+`)
 3 + 2 # check:
